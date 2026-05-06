@@ -22,7 +22,7 @@ Findings & Insights
 
 Beauty, first aid & skin care peak at night  -> Late-night orders signal emotional/immediate need, not routine 
 
-Milk (78%), fresh fruits (72%), eggs (71%) reorder rate -> Core staples are purchased on autopilot — no decision-making involved |
+Milk (78%), fresh fruits (72%), eggs (71%) reorder rate -> Core staples are purchased on autopilot — no decision-making involved 
 
 ---
 
