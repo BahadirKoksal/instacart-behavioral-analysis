@@ -42,4 +42,4 @@ Inspired by my background in ethnographic research, this project applies data an
 #  Author
 
 Bahadir Köksal 
-[LinkedIn(]https://www.linkedin.com/in/bahad%C4%B1r-k%C3%B6ksal-5806642a9/)
+[LinkedIn](https://www.linkedin.com/in/bahad%C4%B1r-k%C3%B6ksal-5806642a9/)
