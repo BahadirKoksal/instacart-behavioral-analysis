@@ -16,11 +16,13 @@ Inspired by my background in ethnographic research, this project applies data an
 
 # Key Findings
 
-| Finding |                                               | Insight |
+Findings & Insights
 
-| 90%+ of orders placed between 07:00–21:00               | Grocery shopping is a planned, daytime behavior |
-| Beauty, first aid & skin care peak at night             | Late-night orders signal emotional/immediate need, not routine |
-| Milk (78%), fresh fruits (72%), eggs (71%) reorder rate | Core staples are purchased on autopilot — no decision-making involved |
+90%+ of orders placed between 07:00–21:00   ->      Grocery shopping is a planned, daytime behavior 
+
+Beauty, first aid & skin care peak at night  -> Late-night orders signal emotional/immediate need, not routine 
+
+Milk (78%), fresh fruits (72%), eggs (71%) reorder rate -> Core staples are purchased on autopilot — no decision-making involved |
 
 ---
 
