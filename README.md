@@ -1,4 +1,4 @@
-# What Do We Buy at Night? — Instacart Behavioral Analysis
+# What Do We Buy at Night?  Instacart Behavioral Analysis
 
 A SQL-based behavioral analysis of 3M+ grocery orders, exploring **when** people shop, **what** they buy at night, and **which categories are driven by habit vs. impulse**.
 
